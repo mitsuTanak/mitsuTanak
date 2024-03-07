@@ -57,13 +57,13 @@
 
 ###
 
-<img align="right" height="154" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFja2xoZGVnYTg3bGY0eTEzMDJueTA0cWp1a3ZjNWQxdzh2MnMxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif"  />
+<img align="left" height="154" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFja2xoZGVnYTg3bGY0eTEzMDJueTA0cWp1a3ZjNWQxdzh2MnMxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H7gdwW1UOWyRlVYpwt/giphy.gif"  />
 
 ###
 
 <br clear="both">
 
-<div align="right">
+<div align="left">
   <a href="https://www.linkedin.com/in/pedro-mitsuaki-tanaka-costa-1b4a742a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
